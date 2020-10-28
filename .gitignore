@@ -1,0 +1,5 @@
+.DS_Store
+*.docx
+__pycache__/
+config.py
+.ipynb_checkpoints
